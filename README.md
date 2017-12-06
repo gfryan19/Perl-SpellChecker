@@ -48,7 +48,7 @@ Modify the perl program to add the path:
 use lib ‘/Users/la/perl5/lib/perl5’;
 
 Now try running the perl program:
-perl hangman.pl
+perl spellChecker.pl
 
 
 
