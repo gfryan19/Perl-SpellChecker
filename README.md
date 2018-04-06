@@ -3,6 +3,9 @@ Greg Ryan, Shannon Cherpak
 4/25/17
 directions.txt
 
+This project was the first of the two bigger projects we did for this class where we were still getting th hang of and learning perl. This is a spellchecker program that checks the words of a given file against a supplied dictionary file. The part of this code that only I specifically was responsible for was the text manipulation and regular expressions, and I also worked on the logic of the program alongside my partner Shannon. 
+
+
 MacOS is our preferred platform.
 There is no language compiler for Perl because it is an interpreted language. Download any text editor that you like using and that works with Perl. A popular one for Perl is Padre, but we used Sublime Text 2. 
 https://www.sublimetext.com
